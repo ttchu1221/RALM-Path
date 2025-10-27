@@ -330,21 +330,17 @@ class FewShotSampleGenerator:
         print(f"Processing dataset: {dataset_name}")
         
         feature_db = self._build_feature_database(dataset_name, dataset_samples)
-        # cutoff = max(1, int(len(dataset_samples) * 0.8))
-        # candidate_samples = dataset_samples[cutoff:]
-        
+
         if self.config["n_shot"] < 100:
             seen = set()
             candidate_samples = []
 
             for s in dataset_samples:
                 rel_img = s["relative_image"]
-                # 同时满足：在黑名单中，且之前未见过
                 if rel_img in self.blacklist and rel_img not in seen:
                     candidate_samples.append(s)
                     seen.add(rel_img)
-        # if dataset_name == "PAIP19":
-        #     set_trace()
+
         combined_samples = []
         sample_counter = 0
        
@@ -354,11 +350,11 @@ class FewShotSampleGenerator:
                 similar_samples = self._select_similar_samples(
                     feature_db, dataset_samples,self.config["n_shot"], pred_sample
                 )
-                #set_trace()
+
                 if not similar_samples:
                     continue
             similar_samples.append(pred_sample)
-            #set_trace()
+
             combined = self._create_combined_sample(similar_samples, sample_counter + 1)
             if combined:
                 combined_samples.append(combined)

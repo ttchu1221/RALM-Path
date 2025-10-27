@@ -77,10 +77,10 @@ class Eval:
         eval_list = []
         for i, res in enumerate(preds):
             sample_id = res['sample_id']
-            # print(sample_id)
+
             gt_ans = self.process(res["gt_response"])
             pred_ans = self.process(res["pred_response"])
-            # assert gt_ans != ''
+  
 
             if gt_ans == '':
                 continue
@@ -201,11 +201,11 @@ class Eval:
                     if len(a) == 1:
                         pred_ans = a
 
-            # 收集真实值和预测值
+
             y_true.append(gt_ans)
             y_pred.append(pred_ans)
 
-            # 判断是否正确
+
             if gt_ans == pred_ans:
                 score = 1
             else:
@@ -216,7 +216,7 @@ class Eval:
             eval_list.append({'score': str(score)})
 
         # 计算 F1 分数
-        f1 = f1_score(y_true, y_pred, average='weighted')  # 加权平均 F1 分数
+        f1 = f1_score(y_true, y_pred, average='weighted')  
         return  f1, eval_list
 
     def eval_confusion_matrix(self, predictions, save_path="confusion_matrix.png"):
@@ -308,8 +308,6 @@ if __name__ == "__main__":
                 "F1": f1_eval_list,
                 "ACC": acc_eval_list
             }
-            # path = os.path.join(result_dir,f'confusion_matrix_close{dataset}.png')
-            # E.eval_confusion_matrix(preds,path)
                         
 
         else:
