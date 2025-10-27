@@ -1,11 +1,11 @@
-# main.py
+
 from fewshot_generator import FewShotSampleGenerator
 import torch 
 CONFIG = {
-    "model_path": "/home/DATA2/cxh/llava-next-image/quilt-net",
-    "root_directory": "/home/DATA2/cxh/Eval_data",
-    "blacklist_file": "/home/DATA2/cxh/Eval_data/zero-shot-qa.json",
-    "output_val_file": "/home/DATA2/cxh/Eval_data/1-shot-rag-qa-q.json",
+    "model_path": "",
+    "root_directory": "",
+    "blacklist_file": "",
+    "output_val_file": "",
     "n_shot": 1,
     "d":"",
     "test_size": 0.2,
@@ -64,9 +64,8 @@ CONFIG = {
     ]
 }
 }
-#    root_directory = "/home/DATA2/cxh/Pathology"
-#    blacklist_file = "/home/DATA2/cxh/Pathology/beachmark_close_fewshot.json"
+
 
 if __name__ == "__main__":
     generator = FewShotSampleGenerator(CONFIG)
-    results = generator.run()  # 返回生成的样本列表
+    results = generator.run()  
