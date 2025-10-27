@@ -1,0 +1,5002 @@
+[
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__463.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__251.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__391.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__130.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__352.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__419.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__371.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__388.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__426.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__442.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__357.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__94.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__290.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__288.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__13.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__196.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__443.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__464.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__28.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__125.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__457.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__132.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__0.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__325.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__169.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__38.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__310.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__228.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__332.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__35.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__107.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__129.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__151.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__378.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__384.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__347.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__82.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__200.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__488.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__181.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__166.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__320.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__484.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__346.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__376.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__400.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__103.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__62.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__343.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Metastatic colon cancer in the liver\nB. non-cancer\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CocaHis/data/pairs/images/512__75.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CocaHis",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_2__01_01_0118__672__33801__Viable-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_1__01_01_0087__672__20848__Viable-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_2__01_01_0119__672__38324__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_1__01_01_0085__672__25742__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_2__01_01_0118__672__33392__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_2__01_01_0125.SVS__672__10750__Viable-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_2__01_01_0126.SVS__672__14550__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_1__01_01_0094__672__36344__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Amended_Training_2__01_01_0111__672__15704__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_2__01_01_0139__672__44027__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_1__01_01_0108__672__15895__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_2__01_01_0111__672__21316__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_1__01_01_0107__672__14434__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_2__01_01_0134__672__35952__Viable-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_1__01_01_0091__672__41053__Viable-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Amended_Training_2__01_01_0103__672__6288__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_1__01_01_0106__672__11990__Viable-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_2__01_01_0128__672__19196__Viable-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_2__01_01_0136__672__49128__Viable-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_2__01_01_0127.SVS__672__16358__Viable-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_2__01_01_0114__672__28780__Viable-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_2__01_01_0126.SVS__672__12277__Viable-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_2__01_01_0124__672__4538__Viable-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_2__01_01_0128__672__20043__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Amended_Training_2__01_01_0111__672__14891__Non-viable.jpg"
+        ],
+        "metadata": {
+            "answer": "C",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_1__01_01_0110__672__24592__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_1__01_01_0101__672__8318__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_1__01_01_0106__672__12417__Viable-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_2__01_01_0117__672__36062__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_2__01_01_0126.SVS__672__13755__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_2__01_01_0121__672__8162__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_2__01_01_0120__672__39663__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Amended_Training_2__01_01_0111__672__15638__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_2__01_01_0138__672__45336__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_1__01_01_0107__672__13556__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_2__01_01_0093.SVS__672__16809__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_1__01_01_0092__672__35388__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_1__01_01_0110__672__22475__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_1__01_01_0101__672__6555__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_1__01_01_0085__672__26358__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_2__01_01_0114__672__27884__Non-viable.jpg"
+        ],
+        "metadata": {
+            "answer": "C",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Amended_Training_2__01_01_0103__672__4841__Viable-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_1__01_01_0103__672__2853__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_2__01_01_0132__672__24558__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_2__01_01_0119__672__38178__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_1__01_01_0085__672__26850__Viable-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_2__01_01_0120__672__41288__Viable-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_2__01_01_0131__672__22771__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Amended_Training_2__01_01_0111__672__14713__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Viable-tumor\nB. Non-tumor\nC. Non-viable tumor (intratumoral hemorrhage or necrosis or non-tumor tissue region)\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "PAIP19/data/pairs/images/Training_Phase_1__01_01_0094__672__36193__Non-tumor.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "PAIP19",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000144_24320_5120.png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000137_29440_6400.png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000083_35840_11520.png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000082_16640_10240.png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000013_47360_5120.png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000076_49920_5120.png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000163_20480_29440.png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000060_29440_35840.png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000067_21760_14080.png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000174_23040_28160.png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000151_3840_8960.png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000089_6400_11520.png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000162_15360_2560.png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000078_15360_8960.png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000164_20480_14080.png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000027_8960_6400.png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000136_20480_10240.png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000136_17920_10240.png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000154_3840_35840.png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000072_16640_3840.png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000171_20480_7680.png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000008_6400_8960.png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000162_12800_17920.png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000158_23040_14080.png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000056_12800_8960.png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000064_32000_21760.png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000107_47360_12800.png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000112_48640_2560.png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000048_17920_7680.png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000082_38400_12800.png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000141_8960_33280.png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000172_28160_3840.png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000105_11520_29440.png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000151_43520_21760.png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000149_11520_32000.png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000006_51200_3840.png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000171_19200_23040.png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000151_32000_23040.png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000026_19200_8960.png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000151_42240_30720.png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000076_10240_5120.png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000143_56320_21760.png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000056_6400_10240.png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000022_28160_7680.png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000071_34560_10240.png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000100_16640_7680.png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000076_47360_5120.png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000132_6400_11520.png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000054_6400_24320.png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. normal\nB. colorectal adenoma\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "CAMEL/data/pairs/images/image_000164_6400_10240.png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "CAMEL",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/216-B5-NORM.ndpi_ROI__mpp0.44_reg002_crop_sk00066_(10029,32882,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/120-B3-NORM.ndpi_ROI__mpp0.44_reg000_crop_sk00002_(64028,29024,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/TA.LG CASO 46 - 2019-03-01 08.37.03.ndpi_ROI__mpp0.44_reg000_crop_sk00002_(6797,9603,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "D",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/118-B3-TVALG.ndpi_ROI__mpp0.44_reg001_crop_sk00025_(19036,39207,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "F",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/209-B5-TVALG.ndpi_ROI__mpp0.44_reg007_crop_sk00088_(24360,13878,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "F",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/188-B4-NORM.ndpi_ROI__mpp0.44_reg004_crop_sk00098_(18088,18655,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/TA.LG CASO 45 - 2019-03-01 08.32.26.ndpi_ROI__mpp0.44_reg001_crop_sk00008_(33610,4285,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "D",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/79-B2-TALG.ndpi_ROI__mpp0.44_reg000_crop_sk00005_(41127,35315,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "D",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/185-B4-NORM.ndpi_ROI__mpp0.44_reg001_crop_sk00023_(50304,11192,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/187-B4-NORM.ndpi_ROI__mpp0.44_reg001_crop_sk00026_(32850,12611,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/TVA.HG CASO 9 - 2019-03-04 10.19.16.ndpi_ROI__mpp0.44_reg004_crop_sk00038_(77407,5129,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "E",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/TVA.HG CASO 11.ndpi_ROI__mpp0.44_reg001_crop_sk00020_(60235,49597,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "E",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/165-B4-HP.ndpi_ROI__mpp0.44_reg001_crop_sk00011_(13453,31130,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/TA.LG CASO 56 - 2019-03-04 10.00.26.ndpi_ROI__mpp0.44_reg018_crop_sk00055_(32893,39282,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "D",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/188-B4-NORM.ndpi_ROI__mpp0.44_reg003_crop_sk00078_(28529,14801,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/70-B2-TVALG.ndpi_ROI__mpp0.44_reg000_crop_sk00004_(16863,21548,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "F",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/209-B5-TVALG.ndpi_ROI__mpp0.44_reg000_crop_sk00011_(4894,21077,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "F",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/TVA.LG CASO 2 - 2018-12-04 13.19.16.ndpi_ROI__mpp0.44_reg000_crop_sk00016_(12684,8135,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "F",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/195-B4-TALG.ndpi_ROI__mpp0.44_reg000_crop_sk00030_(37699,42686,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "D",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/TA.LG CASO 53 - 2019-03-04 08.42.25.ndpi_ROI__mpp0.44_reg005_crop_sk00014_(7470,37637,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "D",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/TA.LG CASO 62 - 2019-03-04 17.11.05.ndpi_ROI__mpp0.44_reg000_crop_sk00022_(8996,11204,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "D",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/TA.LG CASO 92 A1.ndpi_ROI__mpp0.44_reg000_crop_sk00009_(79111,11048,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "D",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/TA.LG CASO 64 - 2019-03-04 17.42.27.ndpi_ROI__mpp0.44_reg006_crop_sk00022_(55975,9516,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "D",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/TA.LG CASO 48 - 2019-03-01 09.02.35.ndpi_ROI__mpp0.44_reg009_crop_sk00094_(42487,38311,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "D",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/215-B5-NORM.ndpi_ROI__mpp0.44_reg004_crop_sk00080_(14769,48024,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/271-B5-NORM.ndpi_ROI__mpp0.44_reg002_crop_sk00007_(10011,7058,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/TA.HG CASO 16.ndpi_ROI__mpp0.44_reg000_crop_sk00003_(46701,11754,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "C",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/TA.LG CASO 9 - 2018-12-04 13.41.36.ndpi_ROI__mpp0.44_reg005_crop_sk00139_(4520,10716,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "D",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/79-B2-TALG.ndpi_ROI__mpp0.44_reg000_crop_sk00007_(44751,35315,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "D",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/209-B5-TVALG.ndpi_ROI__mpp0.44_reg002_crop_sk00048_(23235,21266,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "F",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/176-B4-TVALG.ndpi_ROI__mpp0.44_reg002_crop_sk00030_(10942,38636,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "F",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/TVA.LG CASO 3 - 2018-12-04 13.22.40.ndpi_ROI__mpp0.44_reg002_crop_sk00048_(37030,8071,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "F",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/TVA.LG CASO 9.ndpi_ROI__mpp0.44_reg003_crop_sk00050_(31884,32386,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "F",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/216-B5-NORM.ndpi_ROI__mpp0.44_reg004_crop_sk00100_(34940,29648,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/93-B2-TVALG.ndpi_ROI__mpp0.44_reg001_crop_sk00069_(12979,25721,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "F",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/TA.LG CASO 52 - 2019-03-04 08.34.05.ndpi_ROI__mpp0.44_reg003_crop_sk00057_(86965,19611,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "D",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/215-B5-NORM.ndpi_ROI__mpp0.44_reg003_crop_sk00060_(9561,37418,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/243-B5-TVALG.ndpi_ROI__mpp0.44_reg000_crop_sk00003_(25786,31390,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "F",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/72-B2-TALG.ndpi_ROI__mpp0.44_reg002_crop_sk00016_(40361,20317,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "D",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/HP CASO 40 B1.ndpi_ROI__mpp0.44_reg000_crop_sk00002_(73224,12737,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/TVA.LG CASO 11.ndpi_ROI__mpp0.44_reg001_crop_sk00035_(56035,8846,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "F",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/225-B5-TALG.ndpi_ROI__mpp0.44_reg001_crop_sk00005_(11278,15640,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "D",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/265-B5-NORM.ndpi_ROI__mpp0.44_reg001_crop_sk00002_(8152,6742,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/252-B5-TVALG.ndpi_ROI__mpp0.44_reg000_crop_sk00013_(11670,20533,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "F",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/59-B2-TVAHG.ndpi_ROI__mpp0.44_reg001_crop_sk00004_(28952,18671,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "E",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/200-B4-TVAHG.ndpi_ROI__mpp0.44_reg003_crop_sk00013_(57577,17422,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "E",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/TVA.LG CASO 4 - 2018-12-04 13.25.02.ndpi_ROI__mpp0.44_reg000_crop_sk00024_(30182,38277,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "F",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/52-B2-TALG.ndpi_ROI__mpp0.44_reg001_crop_sk00007_(85146,12477,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "D",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/170-B4-HP.ndpi_ROI__mpp0.44_reg000_crop_sk00004_(32076,21338,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. Hyperplastic Polyp\nB. Normal tissue\nC. Tubular Adenoma, High-Grade dysplasia\nD. Tubular Adenoma, Low-Grade dysplasia\nE. Tubulo-Villous Adenoma, High-Grade dysplasia\nF. Tubulo-Villous Adenoma, Low-Grade dysplasia\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "unipatho/data/pairs/images/TA.LG CASO 52 - 2019-03-04 08.34.05.ndpi_ROI__mpp0.44_reg003_crop_sk00046_(85153,14175,1812,1812).png"
+        ],
+        "metadata": {
+            "answer": "D",
+            "dataset": "unipatho",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "J"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_6__crop_contour28_x100341_y44177.jpg"
+        ],
+        "metadata": {
+            "answer": "J",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_3__crop_contour28_x79862_y19354.jpg"
+        ],
+        "metadata": {
+            "answer": "G",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_6__crop_contour3_x74903_y53243.jpg"
+        ],
+        "metadata": {
+            "answer": "J",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_3__crop_contour13_x12129_y14836.jpg"
+        ],
+        "metadata": {
+            "answer": "G",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "G"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_3__crop_contour32_x15920_y28548.jpg"
+        ],
+        "metadata": {
+            "answer": "G",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "H"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_4__crop_contour75_x61926_y41903.jpg"
+        ],
+        "metadata": {
+            "answer": "H",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "M"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_12__crop_contour6_x28954_y23945.jpg"
+        ],
+        "metadata": {
+            "answer": "C",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_3__crop_contour8_x25646_y12976.jpg"
+        ],
+        "metadata": {
+            "answer": "G",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_6__crop_contour27_x35871_y18998.jpg"
+        ],
+        "metadata": {
+            "answer": "J",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_4__crop_contour5_x18120_y28082.jpg"
+        ],
+        "metadata": {
+            "answer": "H",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "H"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_3__crop_contour111_x31599_y32597.jpg"
+        ],
+        "metadata": {
+            "answer": "G",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "F"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_5__crop_contour70_x13509_y49533.jpg"
+        ],
+        "metadata": {
+            "answer": "I",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "G"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_11__crop_contour0_x61987_y65470.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "G"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_5__crop_contour4_x712_y36816.jpg"
+        ],
+        "metadata": {
+            "answer": "I",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "M"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_6__crop_contour42_x49339_y17293.jpg"
+        ],
+        "metadata": {
+            "answer": "J",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_4__crop_contour8_x96044_y17940.jpg"
+        ],
+        "metadata": {
+            "answer": "H",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_4__crop_contour76_x50044_y20839.jpg"
+        ],
+        "metadata": {
+            "answer": "H",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "J"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_6__crop_contour16_x93299_y37535.jpg"
+        ],
+        "metadata": {
+            "answer": "J",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_5__crop_contour102_x66251_y39298.jpg"
+        ],
+        "metadata": {
+            "answer": "I",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_6__crop_contour74_x18217_y30407.jpg"
+        ],
+        "metadata": {
+            "answer": "J",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_11__crop_contour26_x46032_y31952.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "D"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_9__crop_contour0_x29855_y43953.jpg"
+        ],
+        "metadata": {
+            "answer": "M",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "J"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_13__crop_contour34_x3983_y12122.jpg"
+        ],
+        "metadata": {
+            "answer": "D",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "G"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_5__crop_contour33_x39831_y64459.jpg"
+        ],
+        "metadata": {
+            "answer": "I",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_10__crop_contour5_x10563_y68204.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_9__crop_contour0_x44409_y17904.jpg"
+        ],
+        "metadata": {
+            "answer": "M",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "M"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_8__crop_contour106_x110279_y41833.jpg"
+        ],
+        "metadata": {
+            "answer": "L",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "H"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_4__crop_contour27_x6230_y20385.jpg"
+        ],
+        "metadata": {
+            "answer": "H",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "M"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_9__crop_contour0_x64433_y5526.jpg"
+        ],
+        "metadata": {
+            "answer": "M",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "H"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_3__crop_contour0_x13638_y48676.jpg"
+        ],
+        "metadata": {
+            "answer": "G",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "G"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_3__crop_contour74_x38256_y63562.jpg"
+        ],
+        "metadata": {
+            "answer": "G",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_4__crop_contour24_x15572_y40196.jpg"
+        ],
+        "metadata": {
+            "answer": "H",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_12__crop_contour11_x69706_y30401.jpg"
+        ],
+        "metadata": {
+            "answer": "C",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "M"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_9__crop_contour30_x42714_y9484.jpg"
+        ],
+        "metadata": {
+            "answer": "M",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_10__crop_contour0_x69580_y50127.jpg"
+        ],
+        "metadata": {
+            "answer": "A",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_4__crop_contour9_x21079_y3814.jpg"
+        ],
+        "metadata": {
+            "answer": "H",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "F"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_5__crop_contour39_x8941_y47626.jpg"
+        ],
+        "metadata": {
+            "answer": "I",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_4__crop_contour13_x67767_y51435.jpg"
+        ],
+        "metadata": {
+            "answer": "H",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_4__crop_contour15_x8067_y24179.jpg"
+        ],
+        "metadata": {
+            "answer": "H",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "A"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_3__crop_contour30_x48636_y39745.jpg"
+        ],
+        "metadata": {
+            "answer": "G",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "G"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_11__crop_contour18_x35492_y13146.jpg"
+        ],
+        "metadata": {
+            "answer": "B",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_12__crop_contour39_x67383_y32645.jpg"
+        ],
+        "metadata": {
+            "answer": "C",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "F"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_3__crop_contour40_x23216_y15859.jpg"
+        ],
+        "metadata": {
+            "answer": "G",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "G"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_3__crop_contour11_x50701_y4660.jpg"
+        ],
+        "metadata": {
+            "answer": "G",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "J"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_6__crop_contour2_x19443_y31964.jpg"
+        ],
+        "metadata": {
+            "answer": "J",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "J"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_9__crop_contour0_x60092_y42093.jpg"
+        ],
+        "metadata": {
+            "answer": "M",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "C"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_3__crop_contour8_x17135_y27180.jpg"
+        ],
+        "metadata": {
+            "answer": "G",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "M"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_6__crop_contour3_x27964_y28682.jpg"
+        ],
+        "metadata": {
+            "answer": "J",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "M"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_6__crop_contour8_x48398_y28851.jpg"
+        ],
+        "metadata": {
+            "answer": "J",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is displayed in the histology image?\nChoices:\nA. peripheral nerve sheath tumor\nB. squamous cell carcinoma\nC. trichoblastoma\nD. histiocytoma\nE. bone\nF. cartilage\nG. dermis\nH. epidermis\nI. subcutis\nJ. inflammation & necrosis\nK. melanoma\nL. plasmacytoma\nM. mast cell tumor\nAnswer with the option's letter from the given choices directly."
+            },
+            {
+                "from": "gpt",
+                "value": "B"
+            }
+        ],
+        "image": [
+            "catch/data/pairs/images/category_6__crop_contour31_x26065_y6234.jpg"
+        ],
+        "metadata": {
+            "answer": "J",
+            "dataset": "catch",
+            "question_type": "close"
+        }
+    }
+]
