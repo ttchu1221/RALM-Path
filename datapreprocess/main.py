@@ -11,7 +11,7 @@ CONFIG = {
     "test_size": 0.2,
     "random_state": 42,
     "batch_size": 2048,
-    "device": "cuda:4" if torch.cuda.is_available() else "cpu",
+    "device": "cuda:0" if torch.cuda.is_available() else "cpu",
     "feature_db_dir": "db1",
     "num_workers": 64,
     "DATASET_CLASSES" :
