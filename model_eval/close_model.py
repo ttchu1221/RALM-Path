@@ -17,14 +17,11 @@ def image_format(image_path):
         it = "jpeg"
     return img_list,it
 
-def image_to_base64(image_path, max_size=(768, 768)):
+def image_to_base64(image_path):
 
 
-    with Image.open(img_path) as img:
+    with Image.open(image_path) as img:
 
-        original_width, original_height = img.size
-        if original_width > 768 or original_height > 768:
-            img.thumbnail(max_size, Image.LANCZOS)
         import io
         buffered = io.BytesIO()
         img.save(buffered, format=img.format) 
