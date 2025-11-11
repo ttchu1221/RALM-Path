@@ -19,7 +19,6 @@ def image_format(image_path):
 
 def image_to_base64(image_path):
 
-
     with Image.open(image_path) as img:
 
         import io
